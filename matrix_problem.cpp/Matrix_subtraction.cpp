@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    
     int r, c, A[10][10], B[10][10], C[10][10];
 
     cin >> r >> c;
@@ -27,3 +28,4 @@ int main() {
 
     return 0;
 }
+
