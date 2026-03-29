@@ -16,6 +16,7 @@ int main()
             Not_found=0;
             break;
         }
+            
         else if(a[mid]<target)
         {
          start=mid+1;
