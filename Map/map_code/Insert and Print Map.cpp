@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    map<string,int> student;
+   map<string,int> student;
 
     student["mina"] = 10;
     student["tina"] = 20;
